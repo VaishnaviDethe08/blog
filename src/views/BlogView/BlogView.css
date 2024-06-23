@@ -1,0 +1,24 @@
+.blog-view-image {
+    height: 400px;
+    display: block;
+    margin: 0 auto;
+    padding: 10px 10px;
+}
+
+.blog-view-title {
+    background: linear-gradient(135deg, #f34079 40%, #fc894d);
+    color: white;
+    display: block;
+    margin: 0 auto;
+    padding-left: 200px;
+    width: 500px;
+}
+.blog-view-author {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bolder;
+}
+.blog-view-containt {
+    margin-left: 300px;
+    margin-right: 300px;
+}
